@@ -1,2 +1,2 @@
 # My-Assignments
-Playwright week day 01 home assignment
+Playwright weekday  home assignments
